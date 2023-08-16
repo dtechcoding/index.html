@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dushyant CV</title>
+</head>
+<body>
+
+    <div>
+        <div>
+            <h1>Dushyant Singh</h1>
+            <p>Contact: <a href="email.com">deepaksingh23121@gmail.com</a>
+                <p>Instagram: <a href="instagram.com">real.dushyant</a>
+                    <p>Github: <a href="github.com">dtechcoding</a>
+            </p>
+
+        </div>
+<table>
+    <tr>
+        <td>
+            <img src="dush.JPG" width="100" height="90" border="3" src="DushyantSinghPIC">
+        </td>
+        <td> My name is<b> Dushyant Singh </b>,  I am a passionate Web Developer with expertise in professional Web development,
+           <br> And a 3rd year student in <b>vivekanand College of polytechnic.</b>
+            Till now i have gained many skills in various<br> fields and in subjects including with the practical work. 
+            I am also skilled in various problem solving and algorithm thinking.<br> I have also completed my<b> internship</b> with<font color="red"> <u> @thewebsitemaker </u> & <u>GUVI.</u> <br></font>
+           Currently I am learning more new things in computer field and therefore I am sure that I will become a perfect Computer Engineer...</td>
+    </tr>
+   
+</table>
+ </div>
+    <SECTION>
+  <UL>
+    <H2><u>EDUCATION</u></H2>
+            <LI>High school- <b>St.Johns Senior Sec. School(Atrauli)</b></LI>
+            <LI>Diploma in CSE- <B>Vivekanand College of Polytechnic(Aligarh)</B>
+    </UL>
+
+    </SECTION>
+
+    <SECTION>
+       
+            <H2><u>Work Experience</u></H2>
+            <h3>Co-founder,The best Balaji</h3>
+            <UL>
+            <LI>Developed Website of FSSAI registered company <font color="brown">(The best Balaji).</LI></font>
+           
+                <LI>10 years+ experience as a Content Creator on YouTube(master in editing)</LI>
+    </UL>
+    <h3> Internship with<i> GUVI</i> & <i>The Website makers.</i></h3>
+    <UL> <li>GUVI Credential ID fWa50q90XP276H129A <br>
+    <a href="https://www.guvi.in/verify-certificate?id=fWa50q90XP276H129A&course=pythonHin"><font size="2">Verify certificate here</a></font>
+</li>
+<LI>thewebsitemakers certificate ID: TWM_rufwir365gch</LI>
+</UL></SECTION>
+<section>
+    <h2><u>Skills</u></h2><ul>
+        <li>HTML</li>
+        <li>SQL</li>
+        <li>Python</li>
+        <li>MicroSoft <u>Word,access,PowerPoint</u>..</li>
+    </ul>
+</section><section>
+    <section><h2>About me
+    </h2><ul>
+        <li>Good in English <font size="1" color="arial">[Second Rank in English OLYMPIAD by(OLF)]</font>
+        </li>
+        <li>Quick learner</li>
+        <li>Fast Typing</li>
+        <li>Understanding Guy</li>
+        <li>Passionate in Computer Field</li>
+        <li>Fits in any environment</li>
+        <li>Very Focused towards Goal</li>
+    </ul>
+
+
+
+    </section>
+<H3>
+<u> My Project: </u>
+</H3>
+Github Link: <a href="https://dtechcoding.github.io/resume/#about">Click Here</a></section>
+<br><br><br>
+</body><footer> <pre><p style="background-color:dimgray"> <font size="2">                                                                   &copy2023 Dushyant Singh, All Rights Reserved. </font> </footer>
+</pre></p></footer>
+</html>
